@@ -1,0 +1,24 @@
+{
+  "name": "inline-json",
+  "version": "1.0.0",
+  "description": "Safely escapes JSON for inlining in HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artnez/inline-json.git"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "inline"
+  ],
+  "author": "Artem Nezvigin <artem@artnez.com>",
+  "license": "Do What the Fuck You Want to Public License",
+  "bugs": {
+    "url": "https://github.com/artnez/inline-json/issues"
+  },
+  "homepage": "https://github.com/artnez/inline-json#readme"
+}
